@@ -275,18 +275,11 @@ const connectDB = async () => {
 };
 
 const getModel = (name, mongooseModel) => {
-  return new Proxy({}, {
-    get(target, prop) {
-      if (isConnectedToMongo && mongoose.connection.readyState === 1) {
-        return mongooseModel[prop];
-      }
-      const local = getLocalModel(name);
-      if (typeof local[prop] === 'function') {
-        return local[prop].bind(local);
-      }
-      return local[prop];
-    }
-  });
+  if (isConnectedToMongo && mongoose.connection.readyState === 1) {
+    return mongooseModel;
+  }
+
+  return getLocalModel(name);
 };
 
 module.exports = {

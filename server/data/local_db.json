@@ -1,0 +1,4262 @@
+{
+  "User": [
+    {
+      "name": "Placement Officer / Admin",
+      "email": "admin@interviewmate.ai",
+      "password": "$2a$10$ltqCJFH/EpHx.Hwv7TIUCuKAzBS6Iclz3oR51dFIdsJp5fSFUlexW",
+      "college": "InterviewMate HQ",
+      "degree": "Faculty / Admin",
+      "graduationYear": 2024,
+      "targetRole": "Platform Administrator",
+      "skills": [
+        "Curriculum Design",
+        "Interview Moderation",
+        "Analytics"
+      ],
+      "role": "admin",
+      "_id": "id_1790137424156_2d2e1p4",
+      "createdAt": "2026-09-23T04:23:44.156Z",
+      "updatedAt": "2026-09-23T04:23:44.156Z"
+    },
+    {
+      "name": "Rohan Sharma",
+      "email": "demo.student@interviewmate.ai",
+      "password": "$2a$10$ltqCJFH/EpHx.Hwv7TIUCuKAzBS6Iclz3oR51dFIdsJp5fSFUlexW",
+      "college": "National Institute of Technology",
+      "degree": "B.Tech in Computer Science",
+      "graduationYear": 2026,
+      "targetRole": "Full Stack Software Engineer",
+      "skills": [
+        "Java",
+        "React",
+        "Node.js",
+        "SQL",
+        "Data Structures",
+        "Docker"
+      ],
+      "role": "student",
+      "_id": "id_1790137424182_63mhk31",
+      "createdAt": "2026-09-23T04:23:44.182Z",
+      "updatedAt": "2026-09-23T04:23:44.182Z"
+    },
+    {
+      "name": "Priya Sundaram",
+      "email": "priya.1790138831360@annauniv.edu",
+      "password": "$2a$10$wO14C2nDrJTv8nDO2DG0R.RihWS24uM8Xzfb0O7FymntTt5pH75mO",
+      "college": "Anna University, Chennai",
+      "degree": "B.Tech IT",
+      "graduationYear": 2026,
+      "targetRole": "Senior Full Stack Engineer",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "role": "student",
+      "_id": "id_1790138831600_y6dwutw",
+      "createdAt": "2026-09-23T04:47:11.600Z",
+      "updatedAt": "2026-09-23T04:47:12.150Z"
+    },
+    {
+      "name": "Priya Sundaram",
+      "email": "priya.1790138858529@annauniv.edu",
+      "password": "$2a$10$dcxHjCPFJ2DzdH.T8rFk.OrgcLd5rdf4aVEVi6C0yu.boEQqXgeXC",
+      "college": "Anna University, Chennai",
+      "degree": "B.Tech IT",
+      "graduationYear": 2026,
+      "targetRole": "Senior Full Stack Engineer",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "role": "student",
+      "_id": "id_1790138858746_f3hr1wp",
+      "createdAt": "2026-09-23T04:47:38.746Z",
+      "updatedAt": "2026-09-23T04:47:39.268Z"
+    },
+    {
+      "name": "parthiban.r",
+      "email": "yogi12509@gmail.com",
+      "password": "$2a$10$rek3pVdSavr/6oqUhmd6LOzUgmqaAt1Aak.8BmUWZ6s4dmkyywsQq",
+      "college": "anna university",
+      "degree": "B.Tech in Computer Science",
+      "graduationYear": 2026,
+      "targetRole": "Full Stack Software Engineer",
+      "skills": [
+        "python"
+      ],
+      "role": "student",
+      "_id": "id_1790140746378_pvogi6f",
+      "createdAt": "2026-09-23T05:19:06.378Z",
+      "updatedAt": "2026-09-23T05:19:06.378Z"
+    },
+    {
+      "name": "parthibot1",
+      "email": "capcutproapk312@gmail.com",
+      "password": "$2a$10$WXPoONrLKM603YyAal5ffeyqH.emF7KLlPizoi5oblYbz9I3tvVOe",
+      "college": "anna university",
+      "degree": "B.Tech in Computer Science",
+      "graduationYear": 2026,
+      "targetRole": "Full Stack Software Engineer",
+      "skills": [],
+      "role": "student",
+      "_id": "id_1790143941917_2d34zpq",
+      "createdAt": "2026-09-23T06:12:21.917Z",
+      "updatedAt": "2026-09-23T06:12:21.917Z"
+    }
+  ],
+  "Question": [
+    {
+      "category": "aptitude",
+      "topic": "Percentages",
+      "difficulty": "Easy",
+      "question": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+      "options": [
+        "34%",
+        "44%",
+        "54%",
+        "64%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%.",
+      "_id": "id_1790137464551_qlek0g7",
+      "createdAt": "2026-09-23T04:24:24.552Z",
+      "updatedAt": "2026-09-23T04:24:24.552Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Profit and loss",
+      "difficulty": "Medium",
+      "question": "An article is sold at a profit of 20%. If both the cost price and selling price are reduced by $20, the profit would be 25%. What is the cost price?",
+      "options": [
+        "$80",
+        "$100",
+        "$120",
+        "$150"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Let CP = x. Then SP = 1.20x. New CP = x - 20, New SP = 1.20x - 20. New profit is 25%, so 1.20x - 20 = 1.25(x - 20). 1.20x - 20 = 1.25x - 25 => 0.05x = 5 => x = $100.",
+      "_id": "id_1790137464578_o99dwbw",
+      "createdAt": "2026-09-23T04:24:24.578Z",
+      "updatedAt": "2026-09-23T04:24:24.578Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Time and work",
+      "difficulty": "Medium",
+      "question": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+      "options": [
+        "4/9",
+        "5/9",
+        "7/18",
+        "1/3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9.",
+      "_id": "id_1790137464601_xlxdzgk",
+      "createdAt": "2026-09-23T04:24:24.601Z",
+      "updatedAt": "2026-09-23T04:24:24.601Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Time, speed and distance",
+      "difficulty": "Medium",
+      "question": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+      "options": [
+        "45 km/h",
+        "54 km/h",
+        "60 km/h",
+        "72 km/h"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h.",
+      "_id": "id_1790137464626_qoozo8q",
+      "createdAt": "2026-09-23T04:24:24.626Z",
+      "updatedAt": "2026-09-23T04:24:24.626Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Probability",
+      "difficulty": "Easy",
+      "question": "Two dice are tossed simultaneously. What is the probability of getting a total sum of 8?",
+      "options": [
+        "5/36",
+        "7/36",
+        "1/6",
+        "1/9"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Total outcomes = 6 * 6 = 36. Favorable outcomes for sum 8 are: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 pairs. Probability = 5/36.",
+      "_id": "id_1790137464654_t8vcc01",
+      "createdAt": "2026-09-23T04:24:24.654Z",
+      "updatedAt": "2026-09-23T04:24:24.654Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Ratios",
+      "difficulty": "Easy",
+      "question": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 2",
+        "4 : 5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3.",
+      "_id": "id_1790137464678_95fo6np",
+      "createdAt": "2026-09-23T04:24:24.678Z",
+      "updatedAt": "2026-09-23T04:24:24.678Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Averages",
+      "difficulty": "Medium",
+      "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+      "options": [
+        "76 kg",
+        "80 kg",
+        "85 kg",
+        "90 kg"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg.",
+      "_id": "id_1790137464708_ze6yte8",
+      "createdAt": "2026-09-23T04:24:24.708Z",
+      "updatedAt": "2026-09-23T04:24:24.708Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Number system",
+      "difficulty": "Easy",
+      "question": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2.",
+      "_id": "id_1790137464737_7t6mbow",
+      "createdAt": "2026-09-23T04:24:24.738Z",
+      "updatedAt": "2026-09-23T04:24:24.738Z"
+    },
+    {
+      "category": "aptitude",
+      "topic": "Quantitative aptitude",
+      "difficulty": "Hard",
+      "question": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+      "options": [
+        "123",
+        "127",
+        "235",
+        "305"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127.",
+      "_id": "id_1790137464763_58c0via",
+      "createdAt": "2026-09-23T04:24:24.763Z",
+      "updatedAt": "2026-09-23T04:24:24.763Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Number series",
+      "difficulty": "Easy",
+      "question": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+      "options": [
+        "(1/3)",
+        "(1/8)",
+        "(2/8)",
+        "(1/16)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is a geometric division series; each number is half of the previous number: 1/4 divided by 2 is 1/8.",
+      "_id": "id_1790137464790_g0ct5ip",
+      "createdAt": "2026-09-23T04:24:24.790Z",
+      "updatedAt": "2026-09-23T04:24:24.790Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Coding-decoding",
+      "difficulty": "Medium",
+      "question": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+      "options": [
+        "QDFHS",
+        "SDFHS",
+        "SHFDQ",
+        "UJHFS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS.",
+      "_id": "id_1790137464817_b47lf6b",
+      "createdAt": "2026-09-23T04:24:24.817Z",
+      "updatedAt": "2026-09-23T04:24:24.817Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Blood relations",
+      "difficulty": "Medium",
+      "question": "Pointing to a photograph of a boy, Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+      "options": [
+        "Brother",
+        "Uncle",
+        "Cousin",
+        "Father"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The only son of Suresh's mother is Suresh himself. So, the boy in the photo is Suresh's son. Thus Suresh is the father of the boy.",
+      "_id": "id_1790137464846_nbziyc8",
+      "createdAt": "2026-09-23T04:24:24.846Z",
+      "updatedAt": "2026-09-23T04:24:24.847Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Direction sense",
+      "difficulty": "Easy",
+      "question": "A man walks 5 km East, then turns right and walks 4 km, then turns left and walks 5 km. In which direction is he now from his starting point?",
+      "options": [
+        "North-East",
+        "South-East",
+        "North-West",
+        "South-West"
+      ],
+      "correctAnswer": 1,
+      "explanation": "From start: 5 km East, then 4 km South, then 5 km East. Net displacement is 10 km East and 4 km South. Hence he is South-East of the starting point.",
+      "_id": "id_1790137464874_s7g0xjt",
+      "createdAt": "2026-09-23T04:24:24.874Z",
+      "updatedAt": "2026-09-23T04:24:24.874Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Syllogisms",
+      "difficulty": "Medium",
+      "question": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither follows"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows.",
+      "_id": "id_1790137464902_q5f0gmt",
+      "createdAt": "2026-09-23T04:24:24.902Z",
+      "updatedAt": "2026-09-23T04:24:24.902Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Analogies",
+      "difficulty": "Easy",
+      "question": "Architect : Building :: Sculptor : ?",
+      "options": [
+        "Museum",
+        "Stone",
+        "Statue",
+        "Chisel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An architect designs/creates a building; similarly, a sculptor creates a statue.",
+      "_id": "id_1790137464933_8nd870b",
+      "createdAt": "2026-09-23T04:24:24.933Z",
+      "updatedAt": "2026-09-23T04:24:24.933Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Seating arrangement",
+      "difficulty": "Hard",
+      "question": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D.",
+      "_id": "id_1790137464958_a1htykp",
+      "createdAt": "2026-09-23T04:24:24.958Z",
+      "updatedAt": "2026-09-23T04:24:24.958Z"
+    },
+    {
+      "category": "reasoning",
+      "topic": "Pattern problems",
+      "difficulty": "Medium",
+      "question": "Which word does NOT belong with the others?",
+      "options": [
+        "Leopard",
+        "Cougar",
+        "Elephant",
+        "Lion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Leopard, cougar, and lion are all members of the feline (cat) family; elephant is a pachyderm.",
+      "_id": "id_1790137464989_ddys4sm",
+      "createdAt": "2026-09-23T04:24:24.989Z",
+      "updatedAt": "2026-09-23T04:24:24.989Z"
+    },
+    {
+      "category": "technical",
+      "topic": "Java",
+      "difficulty": "Medium",
+      "question": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+      "sampleAnswer": "In Java, String is immutable; whenever a String is modified, a new object is created in the String Constant Pool or Heap. StringBuffer is mutable and thread-safe because its methods are synchronized, making it slower. StringBuilder is mutable and not synchronized, offering the best performance for single-threaded string concatenation.",
+      "explanation": "Strings are immutable for security and caching. StringBuffer is synchronized (thread-safe). StringBuilder is unsynchronized and faster.",
+      "_id": "id_1790137465014_glq4eco",
+      "createdAt": "2026-09-23T04:24:25.014Z",
+      "updatedAt": "2026-09-23T04:24:25.014Z"
+    },
+    {
+      "category": "technical",
+      "topic": "Python",
+      "difficulty": "Medium",
+      "question": "What is Python’s Global Interpreter Lock (GIL), why does it exist, and how do developers bypass it for CPU-bound tasks?",
+      "sampleAnswer": "The GIL is a mutex that prevents multiple native threads from executing Python bytecodes at once in CPython. It simplifies CPython memory management and reference counting. To bypass the GIL for CPU-bound workloads, developers use the multiprocessing module (which spawns separate OS processes with isolated memory), C-extensions (NumPy, Cython), or asynchronous I/O for I/O-bound tasks.",
+      "explanation": "GIL ensures thread-safe memory management in CPython. Multiprocessing is the standard approach to leverage multi-core CPUs in Python.",
+      "_id": "id_1790137465039_1flnnkr",
+      "createdAt": "2026-09-23T04:24:25.039Z",
+      "updatedAt": "2026-09-23T04:24:25.039Z"
+    },
+    {
+      "category": "technical",
+      "topic": "C",
+      "difficulty": "Medium",
+      "question": "Explain memory leaks and dangling pointers in C. How can you prevent them during dynamic memory allocation?",
+      "sampleAnswer": "A memory leak occurs when heap memory is allocated using malloc/calloc but not deallocated with free(), leaving it inaccessible. A dangling pointer arises when a pointer still references a memory location after that memory has been freed. Prevention involves always setting freed pointers to NULL, matching every malloc with a free, and utilizing tools like Valgrind.",
+      "explanation": "Always free allocated memory and assign pointers to NULL immediately after freeing to prevent undefined behavior.",
+      "_id": "id_1790137465074_ojzj433",
+      "createdAt": "2026-09-23T04:24:25.075Z",
+      "updatedAt": "2026-09-23T04:24:25.075Z"
+    },
+    {
+      "category": "technical",
+      "topic": "SQL",
+      "difficulty": "Medium",
+      "question": "What is the difference between WHERE and HAVING clauses in SQL? Provide a scenario where HAVING is required.",
+      "sampleAnswer": "WHERE filters rows before any aggregate functions are applied and cannot reference aggregated columns. HAVING filters groups after the GROUP BY clause and aggregate calculations (like COUNT, SUM, AVG) have occurred. For example, SELECT department, AVG(salary) FROM employees GROUP BY department HAVING AVG(salary) > 75000 requires HAVING.",
+      "explanation": "WHERE filters individual records prior to grouping; HAVING filters aggregated groups.",
+      "_id": "id_1790137465104_tab1eg3",
+      "createdAt": "2026-09-23T04:24:25.104Z",
+      "updatedAt": "2026-09-23T04:24:25.104Z"
+    },
+    {
+      "category": "technical",
+      "topic": "OOP",
+      "difficulty": "Easy",
+      "question": "Explain the 4 fundamental pillars of Object-Oriented Programming with real-world software examples.",
+      "sampleAnswer": "1. Encapsulation: Bundling data and methods into a single class with private variables and public getters/setters. 2. Abstraction: Hiding internal complexities and exposing only essential interfaces. 3. Inheritance: Reusing parent class fields and methods (e.g. ElectricCar extends Vehicle). 4. Polymorphism: Ability to take multiple forms through method overloading (compile-time) and method overriding (run-time).",
+      "explanation": "Encapsulation protects internal state; Abstraction simplifies interfaces; Inheritance promotes reusability; Polymorphism enables dynamic method dispatch.",
+      "_id": "id_1790137465133_l9eyeu9",
+      "createdAt": "2026-09-23T04:24:25.133Z",
+      "updatedAt": "2026-09-23T04:24:25.133Z"
+    },
+    {
+      "category": "technical",
+      "topic": "Data Structures",
+      "difficulty": "Hard",
+      "question": "Compare the internal collision resolution strategies in Hash Maps: Chaining vs Open Addressing (Linear Probing, Quadratic Probing, Double Hashing).",
+      "sampleAnswer": "In Separate Chaining, each bucket stores a linked list or balanced red-black tree (like Java 8 HashMap) of key-value pairs that hash to the same index. Memory overhead is due to pointers, but it degrades gracefully under high load factors. In Open Addressing, all elements reside within the bucket array itself. When a collision occurs, alternative cells are probed until an empty slot is found. Open Addressing offers better CPU cache locality but suffers from clustering when the load factor exceeds 0.7.",
+      "explanation": "Chaining handles high load factors gracefully using linked nodes or trees; Open Addressing achieves superior cache locality but requires lower load factors.",
+      "_id": "id_1790137465167_qlgq5cu",
+      "createdAt": "2026-09-23T04:24:25.167Z",
+      "updatedAt": "2026-09-23T04:24:25.167Z"
+    },
+    {
+      "category": "technical",
+      "topic": "DBMS",
+      "difficulty": "Medium",
+      "question": "Explain the ACID properties of database transactions and describe the 4 standard SQL transaction isolation levels.",
+      "sampleAnswer": "ACID stands for Atomicity (all-or-nothing execution), Consistency (maintains valid schema constraints), Isolation (concurrent transactions execute independently), and Durability (committed changes persist despite system crashes). The 4 isolation levels are: Read Uncommitted (allows dirty reads), Read Committed (prevents dirty reads), Repeatable Read (prevents non-repeatable reads), and Serializable (strictest isolation, prevents phantom reads via lock ranges).",
+      "explanation": "ACID guarantees database reliability. Higher isolation levels prevent anomalies (dirty reads, phantom reads) at the expense of concurrency throughput.",
+      "_id": "id_1790137465194_dqk260z",
+      "createdAt": "2026-09-23T04:24:25.194Z",
+      "updatedAt": "2026-09-23T04:24:25.194Z"
+    },
+    {
+      "category": "technical",
+      "topic": "Operating Systems",
+      "difficulty": "Medium",
+      "question": "What are the 4 Coffman conditions necessary for a deadlock to occur in an operating system? How can deadlocks be prevented or avoided?",
+      "sampleAnswer": "The 4 Coffman conditions are: 1. Mutual Exclusion (resources cannot be shared), 2. Hold and Wait (process holds resource while awaiting another), 3. No Preemption (resources cannot be forcefully confiscated), 4. Circular Wait (a circular chain of processes awaiting resources). Deadlocks can be prevented by invalidating any of these conditions (e.g., ordering resource acquisition to eliminate circular wait) or avoided dynamically using Dijkstra’s Banker’s Algorithm.",
+      "explanation": "Breaking any one of the four Coffman conditions guarantees deadlock freedom.",
+      "_id": "id_1790137465226_v43a2j8",
+      "createdAt": "2026-09-23T04:24:25.226Z",
+      "updatedAt": "2026-09-23T04:24:25.226Z"
+    },
+    {
+      "category": "technical",
+      "topic": "Computer Networks",
+      "difficulty": "Medium",
+      "question": "Explain the 3-Way Handshake in TCP connection establishment and contrast TCP with UDP in terms of reliability and latency.",
+      "sampleAnswer": "TCP 3-Way Handshake: 1. Client sends SYN (Synchronize sequence number). 2. Server responds with SYN-ACK (Acknowledging client sequence and sending server sequence). 3. Client replies with ACK. Once established, TCP guarantees reliable, ordered byte streams via checksums, sequence numbers, and retransmissions. UDP is a connectionless, lightweight protocol with zero connection setup overhead, making it ideal for low-latency streaming and gaming where occasional packet loss is acceptable.",
+      "explanation": "TCP is connection-oriented, reliable, and flow-controlled. UDP is connectionless and low-latency.",
+      "_id": "id_1790137465254_fs9lm0f",
+      "createdAt": "2026-09-23T04:24:25.254Z",
+      "updatedAt": "2026-09-23T04:24:25.254Z"
+    },
+    {
+      "category": "hr",
+      "topic": "Self Introduction",
+      "difficulty": "Easy",
+      "question": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+      "sampleAnswer": "I am a final-year Computer Science student passionate about building scalable web solutions. Over the past four years, I have strengthened my core engineering fundamentals in data structures, algorithms, and system design, while building full-stack applications with React and Node.js. Beyond coursework, I led our campus coding club and completed an internship where I optimized API performance. I am excited to contribute my problem-solving skills to your team.",
+      "explanation": "Structure: Present (current degree & core strengths) -> Past (key projects & accomplishments) -> Future (why this role excites you).",
+      "_id": "id_1790137465284_3vz9crl",
+      "createdAt": "2026-09-23T04:24:25.284Z",
+      "updatedAt": "2026-09-23T04:24:25.284Z"
+    },
+    {
+      "category": "hr",
+      "topic": "Company Fit",
+      "difficulty": "Easy",
+      "question": "Why do you want to join our company specifically rather than other tech firms?",
+      "sampleAnswer": "I have closely followed your company’s engineering culture, especially your commitment to scalable distributed systems and open-source contributions. Your product directly impacts millions of users, which demands high availability and clean architecture. Joining your organization gives me the mentorship and platform to tackle challenging real-world problems alongside world-class engineers.",
+      "explanation": "Demonstrate research into the company’s products, culture, and growth trajectory.",
+      "_id": "id_1790137465312_7hgdqsi",
+      "createdAt": "2026-09-23T04:24:25.312Z",
+      "updatedAt": "2026-09-23T04:24:25.312Z"
+    },
+    {
+      "category": "hr",
+      "topic": "Strengths and Weaknesses",
+      "difficulty": "Medium",
+      "question": "What is your greatest technical strength, and what is one area or weakness you are actively working to improve?",
+      "sampleAnswer": "My greatest strength is my persistence in debugging complex issues and learning new frameworks quickly under tight deadlines. As for an area of improvement, I used to hesitate when delegating tasks in group hackathons, wanting to verify every line of code myself. I realized this bottlenecked the team, so I have actively practiced clear sprint planning, modular documentation, and trusting my peers.",
+      "explanation": "Highlight a genuine technical strength with proof, and share a real weakness followed by concrete proactive steps you took to improve.",
+      "_id": "id_1790137465341_ny4832e",
+      "createdAt": "2026-09-23T04:24:25.341Z",
+      "updatedAt": "2026-09-23T04:24:25.341Z"
+    },
+    {
+      "category": "hr",
+      "topic": "Conflict Resolution",
+      "difficulty": "Medium",
+      "question": "Tell me about a time you faced a serious challenge or disagreement during a team project. How did you resolve it?",
+      "sampleAnswer": "During our senior capstone project, our team disagreed on whether to use SQL or MongoDB for our primary database. Instead of debating subjectively, I scheduled a 30-minute sync where we mapped out our data access patterns, scalability requirements, and query complexity. We benchmarked prototype read/write operations and agreed that PostgreSQL provided the ACID guarantees and relational structure we needed. By anchoring the decision on data and team goals, we completed the sprint ahead of schedule.",
+      "explanation": "Use the STAR method (Situation, Task, Action, Result). Focus on constructive, data-driven resolution without personal blame.",
+      "_id": "id_1790137465371_2cma7a6",
+      "createdAt": "2026-09-23T04:24:25.371Z",
+      "updatedAt": "2026-09-23T04:24:25.371Z"
+    },
+    {
+      "category": "hr",
+      "topic": "Long-term Goals",
+      "difficulty": "Easy",
+      "question": "Where do you see yourself in five years in your software engineering journey?",
+      "sampleAnswer": "In five years, I envision myself as a Senior Full Stack Engineer, taking ownership of core system architecture, mentoring junior engineers, and contributing to strategic technical design decisions. I aim to develop deep domain expertise in scalable cloud systems while maintaining strong business acumen.",
+      "explanation": "Demonstrate ambition, realistic career progression, and dedication to long-term engineering excellence.",
+      "_id": "id_1790137465406_t6xyhh1",
+      "createdAt": "2026-09-23T04:24:25.406Z",
+      "updatedAt": "2026-09-23T04:24:25.406Z"
+    }
+  ],
+  "QuizAttempt": [
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 65,
+      "totalQuestions": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionText": "Explain this concept.",
+          "userAnswerText": "In Java, String is immutable and stored in the string pool. StringBuilder is mutable and not thread safe.",
+          "feedback": "Good technical attempt. You scored 65/100. You have the right intuition, but adding deeper technical terminology and concrete examples will make your answer stand out to interviewers.",
+          "score": 65
+        }
+      ],
+      "_id": "id_1790137485147_r729i9x",
+      "createdAt": "2026-09-23T04:24:45.147Z",
+      "updatedAt": "2026-09-23T04:24:45.147Z"
+    },
+    {
+      "userId": "id_1790138831600_y6dwutw",
+      "category": "aptitude",
+      "topic": "Mixed Aptitude",
+      "score": 0,
+      "totalQuestions": 3,
+      "correctAnswers": 0,
+      "incorrectAnswers": 3,
+      "timeSpentSeconds": 45,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 0,
+          "correctOption": 3,
+          "isCorrect": false,
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464578_o99dwbw",
+          "questionText": "An article is sold at a profit of 20%. If both the cost price and selling price are reduced by $20, the profit would be 25%. What is the cost price?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "Let CP = x. Then SP = 1.20x. New CP = x - 20, New SP = 1.20x - 20. New profit is 25%, so 1.20x - 20 = 1.25(x - 20). 1.20x - 20 = 1.25x - 25 => 0.05x = 5 => x = $100."
+        }
+      ],
+      "_id": "id_1790138831775_fve6ojy",
+      "createdAt": "2026-09-23T04:47:11.775Z",
+      "updatedAt": "2026-09-23T04:47:11.775Z"
+    },
+    {
+      "userId": "id_1790138831600_y6dwutw",
+      "category": "technical",
+      "topic": "SQL",
+      "score": 70,
+      "totalQuestions": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionText": "Explain this concept.",
+          "userAnswerText": "WHERE filters rows before aggregation whereas HAVING filters grouped rows after GROUP BY is applied with aggregate functions like COUNT or SUM.",
+          "feedback": "Good technical attempt. You scored 70/100. You have the right intuition, but adding deeper technical terminology and concrete examples will make your answer stand out to interviewers.",
+          "score": 70
+        }
+      ],
+      "_id": "id_1790138831819_mvxwolg",
+      "createdAt": "2026-09-23T04:47:11.819Z",
+      "updatedAt": "2026-09-23T04:47:11.819Z"
+    },
+    {
+      "userId": "id_1790138831600_y6dwutw",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 85,
+      "totalQuestions": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionText": "Tell me about a challenge you faced.",
+          "userAnswerText": "Situation: During our final semester capstone, our database response times degraded under mock load testing. Task: I was responsible for diagnosing the bottleneck. Action: I analyzed query execution plans, identified missing compound indexes on user queries, and implemented Redis caching. Result: We reduced p95 latency from 450ms to 45ms and achieved an A grade.",
+          "feedback": "Good, sincere response! You conveyed your personal experience with authenticity. The structure was compelling and engaging.",
+          "score": 85
+        }
+      ],
+      "_id": "id_1790138831950_n43vyab",
+      "createdAt": "2026-09-23T04:47:11.950Z",
+      "updatedAt": "2026-09-23T04:47:11.950Z"
+    },
+    {
+      "userId": "id_1790138858746_f3hr1wp",
+      "category": "aptitude",
+      "topic": "Mixed Aptitude",
+      "score": 67,
+      "totalQuestions": 3,
+      "correctAnswers": 2,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 45,
+      "answers": [
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464578_o99dwbw",
+          "questionText": "An article is sold at a profit of 20%. If both the cost price and selling price are reduced by $20, the profit would be 25%. What is the cost price?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "explanation": "Let CP = x. Then SP = 1.20x. New CP = x - 20, New SP = 1.20x - 20. New profit is 25%, so 1.20x - 20 = 1.25(x - 20). 1.20x - 20 = 1.25x - 25 => 0.05x = 5 => x = $100."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        }
+      ],
+      "_id": "id_1790138858943_n8vez7r",
+      "createdAt": "2026-09-23T04:47:38.943Z",
+      "updatedAt": "2026-09-23T04:47:38.943Z"
+    },
+    {
+      "userId": "id_1790138858746_f3hr1wp",
+      "category": "technical",
+      "topic": "SQL",
+      "score": 70,
+      "totalQuestions": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionText": "Explain this concept.",
+          "userAnswerText": "WHERE filters rows before aggregation whereas HAVING filters grouped rows after GROUP BY is applied with aggregate functions like COUNT or SUM.",
+          "feedback": "Good technical attempt. You scored 70/100. You have the right intuition, but adding deeper technical terminology and concrete examples will make your answer stand out to interviewers.",
+          "score": 70
+        }
+      ],
+      "_id": "id_1790138858985_bigge1f",
+      "createdAt": "2026-09-23T04:47:38.985Z",
+      "updatedAt": "2026-09-23T04:47:38.985Z"
+    },
+    {
+      "userId": "id_1790138858746_f3hr1wp",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 85,
+      "totalQuestions": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionText": "Tell me about a challenge you faced.",
+          "userAnswerText": "Situation: During our final semester capstone, our database response times degraded under mock load testing. Task: I was responsible for diagnosing the bottleneck. Action: I analyzed query execution plans, identified missing compound indexes on user queries, and implemented Redis caching. Result: We reduced p95 latency from 450ms to 45ms and achieved an A grade.",
+          "feedback": "Good, sincere response! You conveyed your personal experience with authenticity. The structure was compelling and engaging.",
+          "score": 85
+        }
+      ],
+      "_id": "id_1790138859108_o1mtoky",
+      "createdAt": "2026-09-23T04:47:39.108Z",
+      "updatedAt": "2026-09-23T04:47:39.108Z"
+    },
+    {
+      "userId": "id_1790140746378_pvogi6f",
+      "category": "aptitude",
+      "topic": "Mixed Aptitude",
+      "score": 20,
+      "totalQuestions": 5,
+      "correctAnswers": 1,
+      "incorrectAnswers": 4,
+      "timeSpentSeconds": 18,
+      "answers": [
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464654_t8vcc01",
+          "questionText": "Two dice are tossed simultaneously. What is the probability of getting a total sum of 8?",
+          "selectedOption": 3,
+          "correctOption": 0,
+          "isCorrect": false,
+          "explanation": "Total outcomes = 6 * 6 = 36. Favorable outcomes for sum 8 are: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 pairs. Probability = 5/36."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 0,
+          "correctOption": 2,
+          "isCorrect": false,
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790140913431_qrnw4gs",
+      "createdAt": "2026-09-23T05:21:53.431Z",
+      "updatedAt": "2026-09-23T05:21:53.431Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "aptitude",
+      "topic": "Mixed Aptitude",
+      "score": 20,
+      "totalQuestions": 5,
+      "correctAnswers": 1,
+      "incorrectAnswers": 4,
+      "timeSpentSeconds": 13,
+      "answers": [
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 1,
+          "correctOption": 2,
+          "isCorrect": false,
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": 3,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        }
+      ],
+      "_id": "id_1790143986544_xqs92t2",
+      "createdAt": "2026-09-23T06:13:06.544Z",
+      "updatedAt": "2026-09-23T06:13:06.544Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "reasoning",
+      "topic": "Mixed Logical Reasoning",
+      "score": 20,
+      "totalQuestions": 5,
+      "correctAnswers": 1,
+      "incorrectAnswers": 4,
+      "timeSpentSeconds": 18,
+      "answers": [
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": 1,
+          "correctOption": 2,
+          "isCorrect": false,
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        },
+        {
+          "questionId": "id_1790137464790_g0ct5ip",
+          "questionText": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "This is a geometric division series; each number is half of the previous number: 1/4 divided by 2 is 1/8."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 2,
+          "correctOption": 0,
+          "isCorrect": false,
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        },
+        {
+          "questionId": "id_1790137464989_ddys4sm",
+          "questionText": "Which word does NOT belong with the others?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "explanation": "Leopard, cougar, and lion are all members of the feline (cat) family; elephant is a pachyderm."
+        }
+      ],
+      "_id": "id_1790144020995_u2g81ep",
+      "createdAt": "2026-09-23T06:13:40.995Z",
+      "updatedAt": "2026-09-23T06:13:40.995Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144052786_h17qdcq",
+      "createdAt": "2026-09-23T06:14:12.786Z",
+      "updatedAt": "2026-09-23T06:14:12.786Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144058093_6tyruvf",
+      "createdAt": "2026-09-23T06:14:18.093Z",
+      "updatedAt": "2026-09-23T06:14:18.093Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144059365_5iyzj28",
+      "createdAt": "2026-09-23T06:14:19.365Z",
+      "updatedAt": "2026-09-23T06:14:19.365Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144059584_n3fuohx",
+      "createdAt": "2026-09-23T06:14:19.584Z",
+      "updatedAt": "2026-09-23T06:14:19.584Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144059823_rlj4btf",
+      "createdAt": "2026-09-23T06:14:19.823Z",
+      "updatedAt": "2026-09-23T06:14:19.823Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144060007_4p4ovfx",
+      "createdAt": "2026-09-23T06:14:20.007Z",
+      "updatedAt": "2026-09-23T06:14:20.007Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144060233_9pn47ga",
+      "createdAt": "2026-09-23T06:14:20.233Z",
+      "updatedAt": "2026-09-23T06:14:20.233Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144060408_mb0vedj",
+      "createdAt": "2026-09-23T06:14:20.409Z",
+      "updatedAt": "2026-09-23T06:14:20.409Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144060622_ud7ueb1",
+      "createdAt": "2026-09-23T06:14:20.622Z",
+      "updatedAt": "2026-09-23T06:14:20.622Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144060830_ejngo7n",
+      "createdAt": "2026-09-23T06:14:20.830Z",
+      "updatedAt": "2026-09-23T06:14:20.830Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144061016_9wlemy2",
+      "createdAt": "2026-09-23T06:14:21.016Z",
+      "updatedAt": "2026-09-23T06:14:21.016Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144061222_zblypvx",
+      "createdAt": "2026-09-23T06:14:21.222Z",
+      "updatedAt": "2026-09-23T06:14:21.222Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 15,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "ccc",
+          "feedback": "Your response is very brief. In a technical interview, elaborate on the core principles, architecture, and trade-offs.",
+          "score": 15
+        }
+      ],
+      "_id": "id_1790144061450_2nkgmrh",
+      "createdAt": "2026-09-23T06:14:21.450Z",
+      "updatedAt": "2026-09-23T06:14:21.450Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "technical",
+      "topic": "Java",
+      "score": 45,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "jgfutdkuv fhxcryxtrdh jfkyufkrs ",
+          "feedback": "Good technical attempt. You scored 45/100. You have the right intuition, but adding deeper technical terminology and concrete examples will make your answer stand out to interviewers.",
+          "score": 45
+        }
+      ],
+      "_id": "id_1790144083775_fao9u8t",
+      "createdAt": "2026-09-23T06:14:43.775Z",
+      "updatedAt": "2026-09-23T06:14:43.775Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 25,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "asdfghjk;lkjhgfdasdfghjkkjhgxc",
+          "feedback": "Your response is too brief for an HR interview. Recruiters look for depth, authentic personal stories, and professional self-awareness.",
+          "score": 25
+        }
+      ],
+      "_id": "id_1790144105075_6knh6mm",
+      "createdAt": "2026-09-23T06:15:05.075Z",
+      "updatedAt": "2026-09-23T06:15:05.075Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 25,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "n",
+          "feedback": "Your response is too brief for an HR interview. Recruiters look for depth, authentic personal stories, and professional self-awareness.",
+          "score": 25
+        }
+      ],
+      "_id": "id_1790144277999_7y9pguz",
+      "createdAt": "2026-09-23T06:17:57.999Z",
+      "updatedAt": "2026-09-23T06:17:57.999Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 25,
+      "totalQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465312_7hgdqsi",
+          "questionText": "Why do you want to join our company specifically rather than other tech firms?",
+          "userAnswerText": "i love to work in this company",
+          "feedback": "Your response is too brief for an HR interview. Recruiters look for depth, authentic personal stories, and professional self-awareness.",
+          "score": 25
+        }
+      ],
+      "_id": "id_1790144313738_rodypc4",
+      "createdAt": "2026-09-23T06:18:33.738Z",
+      "updatedAt": "2026-09-23T06:18:33.738Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "safdtfkyvbvgf",
+          "feedback": "Your response was detected as invalid or random keyboard input. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790149417079_hi89wmb",
+      "createdAt": "2026-09-23T07:43:37.079Z",
+      "updatedAt": "2026-09-23T07:43:37.079Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "safdtfkyvbvgf",
+          "feedback": "Your response was identified as invalid or random keyboard input (\"safdtfkyvbvgf\"). Technical interview questions require genuine conceptual answers to receive marks. Score: 0/100.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790149417111_a9nde9s",
+      "createdAt": "2026-09-23T07:43:37.111Z",
+      "updatedAt": "2026-09-23T07:43:37.111Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Logical Reasoning",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 75,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 45,
+      "answers": [
+        {
+          "questionId": "id_1790137464874_s7g0xjt",
+          "questionText": "A man walks 5 km East, then turns right and walks 4 km, then turns left and walks 5 km. In which direction is he now from his starting point?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "From start: 5 km East, then 4 km South, then 5 km East. Net displacement is 10 km East and 4 km South. Hence he is South-East of the starting point."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        },
+        {
+          "questionId": "id_1790137464846_nbziyc8",
+          "questionText": "Pointing to a photograph of a boy, Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "The only son of Suresh's mother is Suresh himself. So, the boy in the photo is Suresh's son. Thus Suresh is the father of the boy."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        }
+      ],
+      "_id": "id_1790149417145_cd7bfyg",
+      "createdAt": "2026-09-23T07:43:37.145Z",
+      "updatedAt": "2026-09-23T07:43:37.145Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 40,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417183_9b4t5a8",
+      "createdAt": "2026-09-23T07:43:37.183Z",
+      "updatedAt": "2026-09-23T07:43:37.183Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417250_8s2j8r6",
+      "createdAt": "2026-09-23T07:43:37.250Z",
+      "updatedAt": "2026-09-23T07:43:37.250Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Reasoning",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 75,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464874_s7g0xjt",
+          "questionText": "A man walks 5 km East, then turns right and walks 4 km, then turns left and walks 5 km. In which direction is he now from his starting point?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "From start: 5 km East, then 4 km South, then 5 km East. Net displacement is 10 km East and 4 km South. Hence he is South-East of the starting point."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        },
+        {
+          "questionId": "id_1790137464846_nbziyc8",
+          "questionText": "Pointing to a photograph of a boy, Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+          "selectedOption": 0,
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "0",
+          "explanation": "The only son of Suresh's mother is Suresh himself. So, the boy in the photo is Suresh's son. Thus Suresh is the father of the boy."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "3",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        }
+      ],
+      "_id": "id_1790149417294_1bql9t4",
+      "createdAt": "2026-09-23T07:43:37.294Z",
+      "updatedAt": "2026-09-23T07:43:37.294Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "The weather in Antarctica is very cold and penguins like to swim in icy water.",
+          "feedback": "Your response does not address the technical subject (Java) or the specific question asked. A score of 0/100 has been recorded. Review the model answer below.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790149417320_ik9ys1o",
+      "createdAt": "2026-09-23T07:43:37.320Z",
+      "updatedAt": "2026-09-23T07:43:37.320Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "Apples and oranges are different fruits that grow on trees in orchards.",
+          "feedback": "Your response does not address the behavioral interview question asked. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790149417344_u32atbk",
+      "createdAt": "2026-09-23T07:43:37.344Z",
+      "updatedAt": "2026-09-23T07:43:37.344Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 100,
+      "totalScore": 50,
+      "maximumScore": 50,
+      "percentage": 100,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 5,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417379_7jk3tmt",
+      "createdAt": "2026-09-23T07:43:37.379Z",
+      "updatedAt": "2026-09-23T07:43:37.379Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Reasoning",
+      "score": 100,
+      "totalScore": 75,
+      "maximumScore": 75,
+      "percentage": 100,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 5,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464874_s7g0xjt",
+          "questionText": "A man walks 5 km East, then turns right and walks 4 km, then turns left and walks 5 km. In which direction is he now from his starting point?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "From start: 5 km East, then 4 km South, then 5 km East. Net displacement is 10 km East and 4 km South. Hence he is South-East of the starting point."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "0",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        },
+        {
+          "questionId": "id_1790137464846_nbziyc8",
+          "questionText": "Pointing to a photograph of a boy, Suresh said, \"He is the son of the only son of my mother.\" How is Suresh related to that boy?",
+          "selectedOption": 3,
+          "correctOption": 3,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "3",
+          "explanation": "The only son of Suresh's mother is Suresh himself. So, the boy in the photo is Suresh's son. Thus Suresh is the father of the boy."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        }
+      ],
+      "_id": "id_1790149417420_dqw0htf",
+      "createdAt": "2026-09-23T07:43:37.420Z",
+      "updatedAt": "2026-09-23T07:43:37.420Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 40,
+      "totalScore": 20,
+      "maximumScore": 50,
+      "percentage": 40,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 2,
+      "incorrectAnswers": 3,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 75,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417461_ykwlu90",
+      "createdAt": "2026-09-23T07:43:37.461Z",
+      "updatedAt": "2026-09-23T07:43:37.461Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 5,
+      "timeSpentSeconds": 30,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": null,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": "",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": "   ",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "   ",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": null,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417507_897jry2",
+      "createdAt": "2026-09-23T07:43:37.507Z",
+      "updatedAt": "2026-09-23T07:43:37.507Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 30,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 99,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "99",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": -1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "-1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": "Z",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "Z",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": "Pythonxxx",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "Pythonxxx",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": "123456",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "123456",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417550_ab3ijr4",
+      "createdAt": "2026-09-23T07:43:37.550Z",
+      "updatedAt": "2026-09-23T07:43:37.550Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 0,
+      "answers": [
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464763_58c0via",
+          "questionText": "Find the greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Required number = HCF of (1657 - 6) and (2037 - 5) = HCF of 1651 and 2032. 2032 = 1651 * 1 + 381; 1651 = 381 * 4 + 127; 381 = 127 * 3 + 0. Thus HCF is 127."
+        },
+        {
+          "questionId": "id_1790137464601_xlxdzgk",
+          "questionText": "A can complete a piece of work in 12 days and B can complete it in 18 days. If they work on it together for 4 days, what fraction of work is left?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Combined 1-day work = (3 + 2)/36 = 5/36. In 4 days, they complete 4 * (5/36) = 20/36 = 5/9 of the work. Remaining work = 1 - 5/9 = 4/9."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        }
+      ],
+      "_id": "id_1790149417594_lu4qw5e",
+      "createdAt": "2026-09-23T07:43:37.594Z",
+      "updatedAt": "2026-09-23T07:43:37.594Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 65,
+      "totalScore": 16,
+      "maximumScore": 25,
+      "percentage": 65,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "During my final year engineering capstone project, our team faced a major challenge when our primary database crashed three days before the exhibition. As the backend lead, I organized an emergency meeting, decided to recover our schema using git backups, implemented Redis caching to ease server load, and stayed late to coordinate testing. As a result, we delivered the complete system on time, achieved 98% uptime during evaluation, and earned the first place award from the department jury.",
+          "feedback": "Decent response, but strengthening your action details and quantifiable results will make it much more compelling.",
+          "score": 65,
+          "marksAwarded": 16,
+          "maxMarks": 25,
+          "isCorrect": true,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790149417617_w1dvz4g",
+      "createdAt": "2026-09-23T07:43:37.617Z",
+      "updatedAt": "2026-09-23T07:43:37.617Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "In Java, String is immutable, meaning once created its internal char array cannot be modified. StringBuffer and StringBuilder are mutable sequence of characters. StringBuffer is thread-safe because its methods are synchronized, which introduces performance locking overhead. StringBuilder is non-synchronized and not thread-safe, making it significantly faster for single-threaded string concatenation in loops. We should prefer StringBuilder in local methods, and StringBuffer only when multiple threads share and mutate the instance concurrently.",
+          "feedback": "Your response was identified as invalid or random keyboard input (\"In Java, String is immutable, meani\"). Technical interview questions require genuine conceptual answers to receive marks. Score: 0/100.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790149417645_7szu00x",
+      "createdAt": "2026-09-23T07:43:37.645Z",
+      "updatedAt": "2026-09-23T07:43:37.645Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "safdtfkyvbvgf",
+          "feedback": "Your response was detected as invalid or random keyboard input. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790825828950_133bdhg",
+      "createdAt": "2026-10-01T03:37:08.950Z",
+      "updatedAt": "2026-10-01T03:37:08.950Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "safdtfkyvbvgf",
+          "feedback": "Your response was identified as invalid or random keyboard input (\"safdtfkyvbvgf\"). Technical interview questions require genuine conceptual answers to receive marks. Score: 0/100.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790825828984_dxfuw1b",
+      "createdAt": "2026-10-01T03:37:08.984Z",
+      "updatedAt": "2026-10-01T03:37:08.984Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Logical Reasoning",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 75,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 45,
+      "answers": [
+        {
+          "questionId": "id_1790137464989_ddys4sm",
+          "questionText": "Which word does NOT belong with the others?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Leopard, cougar, and lion are all members of the feline (cat) family; elephant is a pachyderm."
+        },
+        {
+          "questionId": "id_1790137464790_g0ct5ip",
+          "questionText": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "This is a geometric division series; each number is half of the previous number: 1/4 divided by 2 is 1/8."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        }
+      ],
+      "_id": "id_1790825829029_m7qssxw",
+      "createdAt": "2026-10-01T03:37:09.029Z",
+      "updatedAt": "2026-10-01T03:37:09.029Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 40,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": "safdtfkyvbvgf",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "safdtfkyvbvgf",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829076_3vttrqn",
+      "createdAt": "2026-10-01T03:37:09.076Z",
+      "updatedAt": "2026-10-01T03:37:09.076Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 0,
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829138_pi3ugnv",
+      "createdAt": "2026-10-01T03:37:09.138Z",
+      "updatedAt": "2026-10-01T03:37:09.138Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Reasoning",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 75,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464989_ddys4sm",
+          "questionText": "Which word does NOT belong with the others?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "3",
+          "explanation": "Leopard, cougar, and lion are all members of the feline (cat) family; elephant is a pachyderm."
+        },
+        {
+          "questionId": "id_1790137464790_g0ct5ip",
+          "questionText": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "This is a geometric division series; each number is half of the previous number: 1/4 divided by 2 is 1/8."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "3",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        }
+      ],
+      "_id": "id_1790825829184_zbqwted",
+      "createdAt": "2026-10-01T03:37:09.184Z",
+      "updatedAt": "2026-10-01T03:37:09.184Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "The weather in Antarctica is very cold and penguins like to swim in icy water.",
+          "feedback": "Your response does not address the technical subject (Java) or the specific question asked. A score of 0/100 has been recorded. Review the model answer below.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790825829216_1x3pv2p",
+      "createdAt": "2026-10-01T03:37:09.216Z",
+      "updatedAt": "2026-10-01T03:37:09.216Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "Apples and oranges are different fruits that grow on trees in orchards.",
+          "feedback": "Your response does not address the behavioral interview question asked. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790825829245_krq1uiv",
+      "createdAt": "2026-10-01T03:37:09.245Z",
+      "updatedAt": "2026-10-01T03:37:09.245Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 100,
+      "totalScore": 50,
+      "maximumScore": 50,
+      "percentage": 100,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 5,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 3,
+          "correctOption": 3,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829289_8g4wagx",
+      "createdAt": "2026-10-01T03:37:09.289Z",
+      "updatedAt": "2026-10-01T03:37:09.289Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Reasoning",
+      "score": 100,
+      "totalScore": 75,
+      "maximumScore": 75,
+      "percentage": 100,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 5,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137464989_ddys4sm",
+          "questionText": "Which word does NOT belong with the others?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "Leopard, cougar, and lion are all members of the feline (cat) family; elephant is a pachyderm."
+        },
+        {
+          "questionId": "id_1790137464790_g0ct5ip",
+          "questionText": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "This is a geometric division series; each number is half of the previous number: 1/4 divided by 2 is 1/8."
+        },
+        {
+          "questionId": "id_1790137464958_a1htykp",
+          "questionText": "Five colleagues A, B, C, D, and E are sitting in a circle facing the center. C is between A and E. B is to the immediate right of E. Who is to the immediate left of A?",
+          "selectedOption": 2,
+          "correctOption": 2,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "2",
+          "explanation": "Circular clockwise arrangement with C between A and E and B to immediate right of E: E -> C -> A -> D -> B -> E. The person immediately to the left of A is D."
+        },
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "0",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        },
+        {
+          "questionId": "id_1790137464902_q5f0gmt",
+          "questionText": "Statements: (1) All mangoes are golden in color. (2) No golden colored things are cheap. Conclusions: I. All mangoes are cheap. II. Golden colored mangoes are not cheap.",
+          "selectedOption": 1,
+          "correctOption": 1,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 15,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "Since all mangoes are golden and no golden things are cheap, mangoes cannot be cheap. Conclusion II clearly follows."
+        }
+      ],
+      "_id": "id_1790825829329_6qb4ag0",
+      "createdAt": "2026-10-01T03:37:09.329Z",
+      "updatedAt": "2026-10-01T03:37:09.329Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 40,
+      "totalScore": 20,
+      "maximumScore": 50,
+      "percentage": 40,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 2,
+      "incorrectAnswers": 3,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 75,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 3,
+          "correctOption": 3,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 0,
+          "correctOption": 0,
+          "isCorrect": true,
+          "isValid": true,
+          "marksAwarded": 10,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829374_n700hj1",
+      "createdAt": "2026-10-01T03:37:09.374Z",
+      "updatedAt": "2026-10-01T03:37:09.374Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "unansweredQuestions": 5,
+      "timeSpentSeconds": 30,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": null,
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": "",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": "   ",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "   ",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": null,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829422_zqgtr9p",
+      "createdAt": "2026-10-01T03:37:09.422Z",
+      "updatedAt": "2026-10-01T03:37:09.422Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 30,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 99,
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "99",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": -1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "-1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": "Z",
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "Z",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": "Pythonxxx",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "Pythonxxx",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": "123456",
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": false,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "123456",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829469_4reygj0",
+      "createdAt": "2026-10-01T03:37:09.469Z",
+      "updatedAt": "2026-10-01T03:37:09.469Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "aptitude",
+      "topic": "Aptitude",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 5,
+      "answeredQuestions": 5,
+      "correctAnswers": 0,
+      "incorrectAnswers": 5,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 0,
+      "answers": [
+        {
+          "questionId": "id_1790137464551_qlek0g7",
+          "questionText": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "selectedOption": 0,
+          "correctOption": 3,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "0",
+          "explanation": "Let the number be 15 (LCM of 5 and 3). Correct result = 15 * (5/3) = 25. Erroneous result = 15 * (3/5) = 9. Error = 25 - 9 = 16. Percentage error = (16 / 25) * 100 = 64%."
+        },
+        {
+          "questionId": "id_1790137464737_7t6mbow",
+          "questionText": "What is the unit digit in the product (784 * 618 * 917 * 463)?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "1",
+          "explanation": "Multiply only the unit digits: 4 * 8 = 32 (unit digit 2); 2 * 7 = 14 (unit digit 4); 4 * 3 = 12 (unit digit 2). Hence, the unit digit is 2."
+        },
+        {
+          "questionId": "id_1790137464708_ze6yte8",
+          "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+          "selectedOption": 3,
+          "correctOption": 2,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "3",
+          "explanation": "Total increase in weight for all 8 persons = 8 * 2.5 = 20 kg. Weight of new person = Weight of replaced person + total increase = 65 + 20 = 85 kg."
+        },
+        {
+          "questionId": "id_1790137464678_95fo6np",
+          "questionText": "If A : B = 3 : 4 and B : C = 8 : 9, what is the ratio of A : C?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "A/B = 3/4 and B/C = 8/9. A/C = (A/B) * (B/C) = (3/4) * (8/9) = 24/36 = 2/3. Thus A : C = 2 : 3."
+        },
+        {
+          "questionId": "id_1790137464626_qoozo8q",
+          "questionText": "A train 150 meters long passes an electric pole in 15 seconds and another train of same length traveling in opposite direction in 12 seconds. What is the speed of the second train?",
+          "selectedOption": 2,
+          "correctOption": 1,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 10,
+          "userAnswerText": "2",
+          "explanation": "Speed of first train (v1) = 150 / 15 = 10 m/s. Relative speed (v1 + v2) = (150 + 150) / 12 = 300 / 12 = 25 m/s. Therefore v2 = 25 - 10 = 15 m/s = 15 * (18/5) = 54 km/h."
+        }
+      ],
+      "_id": "id_1790825829518_uykd71a",
+      "createdAt": "2026-10-01T03:37:09.518Z",
+      "updatedAt": "2026-10-01T03:37:09.518Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 65,
+      "totalScore": 16,
+      "maximumScore": 25,
+      "percentage": 65,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "During my final year engineering capstone project, our team faced a major challenge when our primary database crashed three days before the exhibition. As the backend lead, I organized an emergency meeting, decided to recover our schema using git backups, implemented Redis caching to ease server load, and stayed late to coordinate testing. As a result, we delivered the complete system on time, achieved 98% uptime during evaluation, and earned the first place award from the department jury.",
+          "feedback": "Decent response, but strengthening your action details and quantifiable results will make it much more compelling.",
+          "score": 65,
+          "marksAwarded": 16,
+          "maxMarks": 25,
+          "isCorrect": true,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790825829553_idj39z5",
+      "createdAt": "2026-10-01T03:37:09.553Z",
+      "updatedAt": "2026-10-01T03:37:09.553Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 98,
+      "totalScore": 49,
+      "maximumScore": 50,
+      "percentage": 98,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "In Java, String is immutable, meaning once created its internal char array cannot be modified. StringBuffer and StringBuilder are mutable sequence of characters. StringBuffer is thread-safe because its methods are synchronized, which introduces performance locking overhead. StringBuilder is non-synchronized and not thread-safe, making it significantly faster for single-threaded string concatenation in loops. We should prefer StringBuilder in local methods, and StringBuffer only when multiple threads share and mutate the instance concurrently.",
+          "feedback": "Technical answer evaluated. Score: 98/100. Your answer demonstrated solid conceptual clarity.",
+          "score": 98,
+          "marksAwarded": 49,
+          "maxMarks": 50,
+          "isCorrect": true,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790825829584_a9834g8",
+      "createdAt": "2026-10-01T03:37:09.584Z",
+      "updatedAt": "2026-10-01T03:37:09.584Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "hi nana\n\n",
+          "feedback": "Your response does not address the technical subject (Java) or the specific question asked. A score of 0/100 has been recorded. Review the model answer below.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790826187408_xxl8467",
+      "createdAt": "2026-10-01T03:43:07.408Z",
+      "updatedAt": "2026-10-01T03:43:07.408Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 50,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "fdzxcfgvbhjknm,.",
+          "feedback": "Your response was identified as invalid or random keyboard input (\"fdzxcfgvbhjknm,.\"). Technical interview questions require genuine conceptual answers to receive marks. Score: 0/100.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 50,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790826198766_ihpkzmr",
+      "createdAt": "2026-10-01T03:43:18.766Z",
+      "updatedAt": "2026-10-01T03:43:18.766Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 98,
+      "totalScore": 49,
+      "maximumScore": 50,
+      "percentage": 98,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "Difference between String, StringBuilder, and StringBuffer in Java\nFeature\tString\tStringBuilder\tStringBuffer\nMutability\tImmutable\tMutable\tMutable\nMemory\tNew object created when modified\tSame object modified\tSame object modified\nThread Safety\tSafe because immutable\t❌ Not thread-safe\t✅ Thread-safe\nPerformance\tSlower for repeated changes\tFastest\tSlower than StringBuilder\nSynchronization\tNot required\tNot synchronized\tSynchronized\n\n1. String:\nString is immutable, meaning its value cannot be changed after creation. When modified, a new String object is created in memory.\n\nString s = \"Hello\";\ns = s + \" World\";\n\nHere, a new String object is created for \"Hello World\".\n\n2. StringBuilder:\nStringBuilder is mutable, so changes happen in the same object without creating a new object every time. It is not thread-safe but provides better performance.\n\nStringBuilder sb = new StringBuilder(\"Hello\");\nsb.append(\" World\");\n\n3. StringBuffer:\nStringBuffer is also mutable, but its methods are synchronized, making it thread-safe when multiple threads access it. Synchronization makes it slower than StringBuilder.\n\nStringBuffer sb = new StringBuffer(\"Hello\");\nsb.append(\" World\");\nIn short:\nString → Immutable + thread-safe + slower for modifications\nStringBuilder → Mutable + not thread-safe + faster\nStringBuffer → Mutable + thread-safe + synchronized",
+          "feedback": "Technical answer evaluated. Score: 98/100. Your answer demonstrated solid conceptual clarity.",
+          "score": 98,
+          "marksAwarded": 49,
+          "maxMarks": 50,
+          "isCorrect": true,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790826260594_06equxo",
+      "createdAt": "2026-10-01T03:44:20.594Z",
+      "updatedAt": "2026-10-01T03:44:20.594Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "technical",
+      "topic": "Java",
+      "score": 98,
+      "totalScore": 49,
+      "maximumScore": 50,
+      "percentage": 98,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "timeSpentSeconds": 60,
+      "answers": [
+        {
+          "questionId": "id_1790137465014_glq4eco",
+          "questionText": "Explain the difference between String, StringBuilder, and StringBuffer in Java, focusing on memory allocation and thread safety.",
+          "userAnswerText": "give me short ans\nString: Immutable. Any modification creates a new object in memory. Thread-safe because it cannot be changed.\nStringBuilder: Mutable and uses the same memory object. Not thread-safe, but faster.\nStringBuffer: Mutable and uses the same memory object. Thread-safe because its methods are synchronized, but slower than StringBuilder.\n\nIn short: String → Immutable | StringBuilder → Fast, not thread-safe | StringBuffer → Thread-safe, slower.",
+          "feedback": "Technical answer evaluated. Score: 98/100. Your answer demonstrated solid conceptual clarity.",
+          "score": 98,
+          "marksAwarded": 49,
+          "maxMarks": 50,
+          "isCorrect": true,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790826297300_ta1qe9h",
+      "createdAt": "2026-10-01T03:44:57.300Z",
+      "updatedAt": "2026-10-01T03:44:57.300Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "gay\n",
+          "feedback": "Your response was detected as invalid or random keyboard input. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790826324427_dhvapxo",
+      "createdAt": "2026-10-01T03:45:24.427Z",
+      "updatedAt": "2026-10-01T03:45:24.427Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 25,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "Hi sir , \nGreetings,\nIam parthiban ,currently persueing Be-cse in tjs.ec",
+          "feedback": "Your response does not address the behavioral interview question asked. A score of 0/100 has been recorded.",
+          "score": 0,
+          "marksAwarded": 0,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": false
+        }
+      ],
+      "_id": "id_1790826401089_4srnocb",
+      "createdAt": "2026-10-01T03:46:41.089Z",
+      "updatedAt": "2026-10-01T03:46:41.089Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "hr",
+      "topic": "Behavioral & Leadership",
+      "score": 39,
+      "totalScore": 10,
+      "maximumScore": 25,
+      "percentage": 39,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "unansweredQuestions": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "timeSpentSeconds": 90,
+      "answers": [
+        {
+          "questionId": "id_1790137465284_3vz9crl",
+          "questionText": "Tell me about yourself, your educational background, and what drives your passion for technology.",
+          "userAnswerText": "Good morning, I’m Yogeshwaran V. I’m pursuing my B.E. in Computer Science and Engineering from TJS Engineering College, with a CGPA of 7.6. I have basic knowledge of Python and Java. I’m passionate about technology because I enjoy learning new things, solving problems, and improving my technical skills. My goal is to continuously learn and grow as a software professional.",
+          "feedback": "Your answer touches upon the topic but needs much clearer structure and specific actions.",
+          "score": 39,
+          "marksAwarded": 10,
+          "maxMarks": 25,
+          "isCorrect": false,
+          "isValid": true
+        }
+      ],
+      "_id": "id_1790826453313_fbbbool",
+      "createdAt": "2026-10-01T03:47:33.313Z",
+      "updatedAt": "2026-10-01T03:47:33.313Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "category": "reasoning",
+      "topic": "Coding-decoding",
+      "score": 0,
+      "totalScore": 0,
+      "maximumScore": 15,
+      "percentage": 0,
+      "totalQuestions": 1,
+      "answeredQuestions": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 1,
+      "unansweredQuestions": 0,
+      "timeSpentSeconds": 10,
+      "answers": [
+        {
+          "questionId": "id_1790137464817_b47lf6b",
+          "questionText": "In a certain code, MONKEY is written as XDJMNL. How is TIGER written in that code?",
+          "selectedOption": 1,
+          "correctOption": 0,
+          "isCorrect": false,
+          "isValid": true,
+          "marksAwarded": 0,
+          "maxMarks": 15,
+          "userAnswerText": "1",
+          "explanation": "Pattern: The letters of MONKEY from right to left are decremented by 1. Y-1=X, E-1=D, K-1=J, N-1=M, O-1=N, M-1=L. For TIGER from right to left: R-1=Q, E-1=D, G-1=F, I-1=H, T-1=S. Result: QDFHS."
+        }
+      ],
+      "_id": "id_1790827475097_kf8fvyz",
+      "createdAt": "2026-10-01T04:04:35.097Z",
+      "updatedAt": "2026-10-01T04:04:35.097Z"
+    }
+  ],
+  "MockInterview": [
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 3,
+      "status": "in_progress",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "",
+          "aiFeedback": "",
+          "score": 0,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790137485182_hcb5rvn",
+      "createdAt": "2026-09-23T04:24:45.182Z",
+      "updatedAt": "2026-09-23T04:24:45.182Z"
+    },
+    {
+      "userId": "id_1790138831600_y6dwutw",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 3,
+      "status": "in_progress",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "The browser looks up DNS to resolve the IP, initiates a TCP 3-way handshake, sends an HTTP GET request, the Express server handles the route and queries MongoDB, then sends JSON back to React.",
+          "aiFeedback": "Strong response! You clearly structured your thoughts and communicated your experience with good clarity.",
+          "score": 70,
+          "followUpQuestion": "How would you optimize that solution if the data size grew tenfold?"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "How would you optimize that solution if the data size grew tenfold?",
+          "userAnswer": "To optimize under high concurrency, I implement Redis caching for frequent queries, database indexes on foreign keys, connection pooling, and horizontal scaling behind a reverse proxy.",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 70,
+          "followUpQuestion": "Can you explain the main trade-offs you considered when making that design choice?"
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Can you explain the main trade-offs you considered when making that design choice?",
+          "userAnswer": "",
+          "aiFeedback": "",
+          "score": 0,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790138831853_5o9l79h",
+      "createdAt": "2026-09-23T04:47:11.853Z",
+      "updatedAt": "2026-09-23T04:47:11.921Z"
+    },
+    {
+      "userId": "id_1790138858746_f3hr1wp",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 2,
+      "status": "completed",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "The browser looks up DNS to resolve the IP, initiates a TCP 3-way handshake, sends an HTTP GET request, the Express server handles the route and queries MongoDB, then sends JSON back to React.",
+          "aiFeedback": "Strong response! You clearly structured your thoughts and communicated your experience with good clarity.",
+          "score": 70,
+          "followUpQuestion": "How would you optimize that solution if the data size grew tenfold?"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "How would you optimize that solution if the data size grew tenfold?",
+          "userAnswer": "To optimize under high concurrency, I implement Redis caching for frequent queries, database indexes on foreign keys, connection pooling, and horizontal scaling behind a reverse proxy.",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 70,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790138859015_8gfxvwo",
+      "createdAt": "2026-09-23T04:47:39.015Z",
+      "updatedAt": "2026-09-23T04:47:39.079Z",
+      "overallScore": 70,
+      "scores": {
+        "technicalKnowledge": 73,
+        "communication": 75,
+        "problemSolving": 67,
+        "confidenceClarity": 69
+      },
+      "strengths": [
+        "Demonstrated good clarity when articulating thoughts under timed pressure.",
+        "Structured answers logically with clear problem context.",
+        "Showed genuine enthusiasm for the role and learning new technologies."
+      ],
+      "areasToImprove": [
+        "Elaborate more on quantifiable business or academic impact in project explanations.",
+        "Brush up on time/space complexity analysis when discussing algorithms.",
+        "Practice STAR framework to make behavioral stories even more punchy."
+      ],
+      "recommendedTopics": [
+        "System Design & Scalability Principles",
+        "Data Structures (Trees, Graphs & Dynamic Programming)",
+        "Behavioral STAR Framework practice",
+        "Database Indexing & Query Optimization"
+      ]
+    },
+    {
+      "userId": "id_1790137424156_2d2e1p4",
+      "targetRole": "Platform Administrator",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 4,
+      "status": "in_progress",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the core differences between a process and a thread, and how memory is allocated between stack and heap?",
+          "userAnswer": "",
+          "aiFeedback": "",
+          "score": 0,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790140462036_d3w2v93",
+      "createdAt": "2026-09-23T05:14:22.036Z",
+      "updatedAt": "2026-09-23T05:14:22.036Z"
+    },
+    {
+      "userId": "id_1790140746378_pvogi6f",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 4,
+      "status": "in_progress",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "",
+          "aiFeedback": "",
+          "score": 0,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790140776238_g2zk8on",
+      "createdAt": "2026-09-23T05:19:36.238Z",
+      "updatedAt": "2026-09-23T05:19:36.238Z"
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 4,
+      "status": "completed",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "sxdkilitujvfj5yr  tdrye6tiug yhbi",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "How would you optimize that solution if the data size grew tenfold?"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "How would you optimize that solution if the data size grew tenfold?",
+          "userAnswer": "s fyctjb gf7yk h7kcr6vn/l j gcgvk vh",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "Can you explain the main trade-offs you considered when making that design choice?"
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Can you explain the main trade-offs you considered when making that design choice?",
+          "userAnswer": "http://localhost:5173/login: fytdyi giutliugu",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "How would you unit test that component to ensure robust reliability?"
+        },
+        {
+          "questionNumber": 4,
+          "questionText": "How would you unit test that component to ensure robust reliability?",
+          "userAnswer": "http://localhost:5173/login: asfjuyg  gvftun",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790141126875_60qops3",
+      "createdAt": "2026-09-23T05:25:26.875Z",
+      "updatedAt": "2026-09-23T05:26:32.654Z",
+      "overallScore": 50,
+      "scores": {
+        "technicalKnowledge": 55,
+        "communication": 60,
+        "problemSolving": 55,
+        "confidenceClarity": 60
+      },
+      "strengths": [
+        "Demonstrated good clarity when articulating thoughts under timed pressure.",
+        "Structured answers logically with clear problem context.",
+        "Showed genuine enthusiasm for the role and learning new technologies."
+      ],
+      "areasToImprove": [
+        "Elaborate more on quantifiable business or academic impact in project explanations.",
+        "Brush up on time/space complexity analysis when discussing algorithms.",
+        "Practice STAR framework to make behavioral stories even more punchy."
+      ],
+      "recommendedTopics": [
+        "System Design & Scalability Principles",
+        "Data Structures (Trees, Graphs & Dynamic Programming)",
+        "Behavioral STAR Framework practice",
+        "Database Indexing & Query Optimization"
+      ]
+    },
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 3,
+      "status": "completed",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "cfghb vv",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "How would you optimize that solution if the data size grew tenfold?"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "How would you optimize that solution if the data size grew tenfold?",
+          "userAnswer": "vv",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "Can you explain the main trade-offs you considered when making that design choice?"
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "Can you explain the main trade-offs you considered when making that design choice?",
+          "userAnswer": "fdd",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790143606533_42v432a",
+      "createdAt": "2026-09-23T06:06:46.533Z",
+      "updatedAt": "2026-09-23T06:07:09.327Z",
+      "overallScore": 50,
+      "scores": {
+        "technicalKnowledge": 55,
+        "communication": 60,
+        "problemSolving": 55,
+        "confidenceClarity": 60
+      },
+      "strengths": [
+        "Demonstrated good clarity when articulating thoughts under timed pressure.",
+        "Structured answers logically with clear problem context.",
+        "Showed genuine enthusiasm for the role and learning new technologies."
+      ],
+      "areasToImprove": [
+        "Elaborate more on quantifiable business or academic impact in project explanations.",
+        "Brush up on time/space complexity analysis when discussing algorithms.",
+        "Practice STAR framework to make behavioral stories even more punchy."
+      ],
+      "recommendedTopics": [
+        "System Design & Scalability Principles",
+        "Data Structures (Trees, Graphs & Dynamic Programming)",
+        "Behavioral STAR Framework practice",
+        "Database Indexing & Query Optimization"
+      ]
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "targetRole": "Full Stack Software Engineer",
+      "experienceLevel": "Fresher",
+      "interviewType": "Technical",
+      "totalQuestions": 4,
+      "status": "in_progress",
+      "dialogue": [
+        {
+          "questionNumber": 1,
+          "questionText": "Can you explain the life-cycle of a web request from the moment you type a URL into a browser until the page renders, specifically how client, server, and database interact?",
+          "userAnswer": "cvb",
+          "aiFeedback": "A promising start, but consider using the STAR methodology (Situation, Task, Action, Result) to give more substance to your answers.",
+          "score": 50,
+          "followUpQuestion": "How would you optimize that solution if the data size grew tenfold?"
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "How would you optimize that solution if the data size grew tenfold?",
+          "userAnswer": "",
+          "aiFeedback": "",
+          "score": 0,
+          "followUpQuestion": ""
+        }
+      ],
+      "_id": "id_1790144332016_mcg85yn",
+      "createdAt": "2026-09-23T06:18:52.016Z",
+      "updatedAt": "2026-09-23T06:18:59.600Z"
+    }
+  ],
+  "Bookmark": [
+    {
+      "userId": "id_1790138831600_y6dwutw",
+      "questionId": "id_1790137465014_glq4eco",
+      "_id": "id_1790138832120_c8ml8yj",
+      "createdAt": "2026-09-23T04:47:12.120Z",
+      "updatedAt": "2026-09-23T04:47:12.120Z"
+    },
+    {
+      "userId": "id_1790138858746_f3hr1wp",
+      "questionId": "id_1790137465014_glq4eco",
+      "_id": "id_1790138859241_2rpry66",
+      "createdAt": "2026-09-23T04:47:39.241Z",
+      "updatedAt": "2026-09-23T04:47:39.241Z"
+    }
+  ],
+  "ResumeAnalysis": [
+    {
+      "userId": "id_1790137424182_63mhk31",
+      "fileName": "resume.pdf",
+      "fileSize": 64291,
+      "overallScore": 60,
+      "detectedSkills": {
+        "technical": [
+          "Python",
+          "Java"
+        ],
+        "soft": [
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "tools": [
+          "Git",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [],
+        "experience": [],
+        "certifications": [
+          "Industry Certification"
+        ]
+      },
+      "missingSections": [
+        "Internships / Work Experience",
+        "Technical Projects Section",
+        "GitHub / LinkedIn / Live Portfolio Links"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting Python, Java."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Internships / Work Experience and Technical Projects Section.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points.",
+        "Explicitly list developer tools and platforms (Docker, Git, Postman, Linux) to improve ATS ranking."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using Python?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Java, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790141256416_jt019w2",
+      "createdAt": "2026-09-23T05:27:36.416Z",
+      "updatedAt": "2026-09-23T05:27:36.416Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "fileName": "mugesh RESUME1.pdf",
+      "fileSize": 132867,
+      "overallScore": 95,
+      "detectedSkills": {
+        "technical": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "React",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "CSS",
+          "Tailwind CSS",
+          "MongoDB",
+          "MySQL",
+          "Git",
+          "GitHub"
+        ],
+        "soft": [
+          "Communication"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [
+          "Full Stack Web Application",
+          "Data Analysis Pipeline"
+        ],
+        "experience": [
+          "Software Development Intern"
+        ],
+        "certifications": []
+      },
+      "missingSections": [
+        "Certifications / Credentials"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting JavaScript, Python, Java, React, React.js.",
+        "Dedicated academic or personal projects section showcasing hands-on experience.",
+        "Includes professional portfolio/code links (GitHub / LinkedIn) for verification."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Certifications / Credentials.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using JavaScript?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Python, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790144228584_zohh49r",
+      "createdAt": "2026-09-23T06:17:08.584Z",
+      "updatedAt": "2026-09-23T06:17:08.584Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "fileName": "mugesh RESUME1.pdf",
+      "fileSize": 132867,
+      "overallScore": 95,
+      "detectedSkills": {
+        "technical": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "React",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "CSS",
+          "Tailwind CSS",
+          "MongoDB",
+          "MySQL",
+          "Git",
+          "GitHub"
+        ],
+        "soft": [
+          "Communication"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [
+          "Full Stack Web Application",
+          "Data Analysis Pipeline"
+        ],
+        "experience": [
+          "Software Development Intern"
+        ],
+        "certifications": []
+      },
+      "missingSections": [
+        "Certifications / Credentials"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting JavaScript, Python, Java, React, React.js.",
+        "Dedicated academic or personal projects section showcasing hands-on experience.",
+        "Includes professional portfolio/code links (GitHub / LinkedIn) for verification."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Certifications / Credentials.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using JavaScript?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Python, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790144239248_1svq7p1",
+      "createdAt": "2026-09-23T06:17:19.248Z",
+      "updatedAt": "2026-09-23T06:17:19.248Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "fileName": "mugesh RESUME1.pdf",
+      "fileSize": 132867,
+      "overallScore": 95,
+      "detectedSkills": {
+        "technical": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "React",
+          "React.js",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "CSS",
+          "Tailwind CSS",
+          "MongoDB",
+          "MySQL",
+          "Git",
+          "GitHub"
+        ],
+        "soft": [
+          "Communication"
+        ],
+        "tools": [
+          "Git",
+          "GitHub",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [
+          "Full Stack Web Application",
+          "Data Analysis Pipeline"
+        ],
+        "experience": [
+          "Software Development Intern"
+        ],
+        "certifications": []
+      },
+      "missingSections": [
+        "Certifications / Credentials"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting JavaScript, Python, Java, React, React.js.",
+        "Dedicated academic or personal projects section showcasing hands-on experience.",
+        "Includes professional portfolio/code links (GitHub / LinkedIn) for verification."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Certifications / Credentials.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using JavaScript?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Python, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790144240440_qy3n33k",
+      "createdAt": "2026-09-23T06:17:20.440Z",
+      "updatedAt": "2026-09-23T06:17:20.440Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "fileName": "resume.pdf",
+      "fileSize": 64291,
+      "overallScore": 60,
+      "detectedSkills": {
+        "technical": [
+          "Python",
+          "Java"
+        ],
+        "soft": [
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "tools": [
+          "Git",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [],
+        "experience": [],
+        "certifications": [
+          "Industry Certification"
+        ]
+      },
+      "missingSections": [
+        "Internships / Work Experience",
+        "Technical Projects Section",
+        "GitHub / LinkedIn / Live Portfolio Links"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting Python, Java."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Internships / Work Experience and Technical Projects Section.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points.",
+        "Explicitly list developer tools and platforms (Docker, Git, Postman, Linux) to improve ATS ranking."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using Python?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Java, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790144247967_kul76r4",
+      "createdAt": "2026-09-23T06:17:27.967Z",
+      "updatedAt": "2026-09-23T06:17:27.967Z"
+    },
+    {
+      "userId": "id_1790143941917_2d34zpq",
+      "fileName": "resume.pdf",
+      "fileSize": 64291,
+      "overallScore": 60,
+      "detectedSkills": {
+        "technical": [
+          "Python",
+          "Java"
+        ],
+        "soft": [
+          "Problem Solving",
+          "Collaboration"
+        ],
+        "tools": [
+          "Git",
+          "VS Code"
+        ]
+      },
+      "extractedInfo": {
+        "education": [
+          "Bachelor of Technology / Engineering"
+        ],
+        "projects": [],
+        "experience": [],
+        "certifications": [
+          "Industry Certification"
+        ]
+      },
+      "missingSections": [
+        "Internships / Work Experience",
+        "Technical Projects Section",
+        "GitHub / LinkedIn / Live Portfolio Links"
+      ],
+      "strengths": [
+        "Strong technology footprint highlighting Python, Java."
+      ],
+      "areasToImprove": [
+        "Add missing critical sections: Internships / Work Experience and Technical Projects Section.",
+        "Incorporate quantifiable metrics (e.g. \"reduced latency by 35%\", \"handled 500+ daily users\") in project bullet points.",
+        "Explicitly list developer tools and platforms (Docker, Git, Postman, Linux) to improve ATS ranking."
+      ],
+      "suggestedSkills": [
+        "Docker",
+        "TypeScript",
+        "System Design",
+        "Redis",
+        "Jest/Testing"
+      ],
+      "suggestedProjects": [
+        "Real-time Collaborative Whiteboard (WebSockets + Canvas + Node.js)",
+        "Distributed Task Queue with Redis and Worker Threads",
+        "AI-powered Customer Support Chatbot with Vector Embeddings"
+      ],
+      "suggestedInterviewQuestions": [
+        "Can you walk me through the architecture of your most challenging project using Python?",
+        "How did you handle state management, caching, or data persistence in that project?",
+        "What security measures or authentication mechanisms did you implement?",
+        "If you were to rewrite your project today with Java, what design decisions would you change to improve scalability?",
+        "Describe a difficult bug you encountered during development and how you diagnosed its root cause."
+      ],
+      "_id": "id_1790144250117_zm4ypdq",
+      "createdAt": "2026-09-23T06:17:30.118Z",
+      "updatedAt": "2026-09-23T06:17:30.118Z"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = 'https://interviewmate-ai-rfou.onrender.com/api';
 
 const getHeaders = (isFormData = false) => {
   const token = localStorage.getItem('interviewmate_token');
